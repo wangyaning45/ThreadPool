@@ -14,4 +14,4 @@ auto result = pool.enqueue([](int answer) { return answer; }, 42);
 // get result from future
 std::cout << result.get() << std::endl;
 
-```
+--wyn-branch-2022.4.19```
