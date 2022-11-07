@@ -1,6 +1,6 @@
 ThreadPool
 ==========
-
+编译命令：g++ -lpthread -std=c++11 example.cpp -o example
 A simple C++11 Thread Pool implementation.
 
 Basic usage:
